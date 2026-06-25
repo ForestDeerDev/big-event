@@ -1,5 +1,7 @@
 # Big Event - 大事件管理系统
 
+[English](README_EN.md) | 简体中文
+
 一个基于 Spring Boot + Vue 3 的现代化事件/文章管理系统。
 
 ## 技术栈
