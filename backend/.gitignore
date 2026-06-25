@@ -1,0 +1,23 @@
+# ====================
+# 后端项目规则
+# ====================
+
+# 构建输出
+target/
+
+# IDE 配置
+.idea/
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# 配置文件（包含敏感信息）
+application.yml
+application-dev.yml
+application-prod.yml
+
+# 日志
+*.log
+logs/

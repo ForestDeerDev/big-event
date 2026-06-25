@@ -1,0 +1,40 @@
+# ====================
+# 前端项目规则
+# ====================
+
+# 依赖
+node_modules/
+
+# 构建输出
+dist/
+dist-ssr/
+
+# 测试覆盖率
+coverage/
+
+# 本地配置
+*.local
+
+# Vite 缓存
+.vite/
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# IDE/编辑器
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# npm 锁文件（可选，根据团队约定）
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
